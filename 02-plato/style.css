@@ -1,0 +1,20 @@
+* {
+  background-color: #7c7ce6;
+}
+
+fieldset.field {
+  background-color: #fff375;
+}
+
+fieldset.field div {
+  background-color: #fff375;
+}
+
+fieldset.field label {
+  background-color: #fff375;
+}
+
+fieldset.field label:hover {
+  background-color: #a573e5;
+  color: #ffdc75;
+}
